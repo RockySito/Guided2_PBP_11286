@@ -1,0 +1,6 @@
+package com.example.guidedlayout2_1286
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
